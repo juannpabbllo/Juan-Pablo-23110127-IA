@@ -1,0 +1,2 @@
+nombre = input ("Introduce tu nombre: ").strip() # el contenido de la variable input es literal, En cambio, gracias a la variabilidad del input(), estamos haciendo que la cadena generada en el print(), no sea literal.
+print("Su nombre es " + nombre) # Imprime el nombre ingresado por el usuario
